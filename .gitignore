@@ -9,3 +9,8 @@ data_large/
 reports/
 final_state.csv
 .pytest_cache/
+*.log
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
